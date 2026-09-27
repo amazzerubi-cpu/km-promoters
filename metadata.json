@@ -1,0 +1,6 @@
+{
+  "name": "KM Real Estate CRM",
+  "description": "Production-grade Real Estate CRM for sales pipelines, project allocations, team management, dynamic site visits, and automated follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
